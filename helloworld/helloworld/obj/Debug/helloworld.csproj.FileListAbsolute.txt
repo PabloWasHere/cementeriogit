@@ -1,0 +1,9 @@
+C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\bin\Debug\helloworld.exe.config
+C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\bin\Debug\helloworld.exe
+C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\bin\Debug\helloworld.pdb
+C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.Form1.resources
+C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.Properties.Resources.resources
+C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.csproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.exe
+C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.pdb
