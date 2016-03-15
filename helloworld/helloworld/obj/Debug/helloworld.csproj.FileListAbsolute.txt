@@ -7,6 +7,12 @@ C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proy
 C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.csproj.GenerateResource.Cache
 C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.exe
 C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.pdb
+<<<<<<< HEAD
 C:\Users\sebyc\OneDrive\Documentos\GitHub\cementeriogit\helloworld\helloworld\bin\Debug\helloworld.exe.config
 C:\Users\sebyc\OneDrive\Documentos\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.exe
 C:\Users\sebyc\OneDrive\Documentos\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.pdb
+=======
+C:\Users\Pablo\Documents\GitHub\cementeriogit\helloworld\helloworld\bin\Debug\helloworld.exe.config
+C:\Users\Pablo\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.exe
+C:\Users\Pablo\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.pdb
+>>>>>>> 377411d5d3d965a6bdbd41ae36050832ecdbb3ea
