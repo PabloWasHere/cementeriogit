@@ -16,3 +16,12 @@ C:\Users\Pablo\Documents\GitHub\cementeriogit\helloworld\helloworld\bin\Debug\he
 C:\Users\Pablo\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.exe
 C:\Users\Pablo\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.pdb
 >>>>>>> 377411d5d3d965a6bdbd41ae36050832ecdbb3ea
+E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\bin\Debug\helloworld.exe.config
+E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.exe
+E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.pdb
+E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\bin\Debug\helloworld.exe
+E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\bin\Debug\helloworld.pdb
+E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.csprojResolveAssemblyReference.cache
+E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.Form1.resources
+E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.Properties.Resources.resources
+E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.csproj.GenerateResource.Cache
