@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloworld", "helloworld\helloworld.csproj", "{D2981EA7-C797-400F-80B2-B1F6435E49CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pelad0form", "pelad0form\pelad0form.csproj", "{8DBDF25A-5665-4B11-8561-D9C560C29A92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D2981EA7-C797-400F-80B2-B1F6435E49CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2981EA7-C797-400F-80B2-B1F6435E49CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2981EA7-C797-400F-80B2-B1F6435E49CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DBDF25A-5665-4B11-8561-D9C560C29A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBDF25A-5665-4B11-8561-D9C560C29A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBDF25A-5665-4B11-8561-D9C560C29A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBDF25A-5665-4B11-8561-D9C560C29A92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
