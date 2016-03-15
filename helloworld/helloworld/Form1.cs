@@ -19,12 +19,14 @@ namespace helloworld
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello soy mario!!!");
+            MessageBox.Show("ALOHA!!!");
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
+
+
     }
 }
