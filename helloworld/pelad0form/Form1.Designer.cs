@@ -40,8 +40,11 @@
             this.button1.Text = "Adonte ta pelado?";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+<<<<<<< HEAD
             this.button1.MouseEnter += new System.EventHandler(this.button1_MouseEnter);
             this.button1.MouseLeave += new System.EventHandler(this.button1_MouseLeave);
+=======
+>>>>>>> b9abee7c4d7c4e168236b2bf94c53c77efd48e78
             // 
             // Form1
             // 

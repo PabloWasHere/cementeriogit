@@ -21,6 +21,7 @@ namespace pelad0form
         {
             MessageBox.Show("Acata!!!!!!!!!!!");
         }
+<<<<<<< HEAD
 
         private void button1_MouseEnter(object sender, EventArgs e)
         {
@@ -31,5 +32,7 @@ namespace pelad0form
         {
             button1.Enabled = true;
         }
+=======
+>>>>>>> b9abee7c4d7c4e168236b2bf94c53c77efd48e78
     }
 }

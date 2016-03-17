@@ -7,15 +7,11 @@ C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proy
 C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.csproj.GenerateResource.Cache
 C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.exe
 C:\Users\Pablo\Desktop\Materias\Laboratorio de programacion 3\MercenaryBook proyecto\helloworld\helloworld\obj\Debug\helloworld.pdb
-<<<<<<< HEAD
+
 C:\Users\sebyc\OneDrive\Documentos\GitHub\cementeriogit\helloworld\helloworld\bin\Debug\helloworld.exe.config
 C:\Users\sebyc\OneDrive\Documentos\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.exe
 C:\Users\sebyc\OneDrive\Documentos\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.pdb
-=======
-C:\Users\Pablo\Documents\GitHub\cementeriogit\helloworld\helloworld\bin\Debug\helloworld.exe.config
-C:\Users\Pablo\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.exe
-C:\Users\Pablo\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.pdb
->>>>>>> 377411d5d3d965a6bdbd41ae36050832ecdbb3ea
+
 E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\bin\Debug\helloworld.exe.config
 E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.exe
 E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.pdb
@@ -25,6 +21,7 @@ E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.c
 E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.Form1.resources
 E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.Properties.Resources.resources
 E:\ULP\Laboratorio-IV\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.csproj.GenerateResource.Cache
+
 C:\Users\Admin\Documents\GitHub\cementeriogit\helloworld\helloworld\bin\Debug\helloworld.exe.config
 C:\Users\Admin\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.exe
 C:\Users\Admin\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.pdb
@@ -34,3 +31,4 @@ C:\Users\Admin\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\he
 C:\Users\Admin\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.Form1.resources
 C:\Users\Admin\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.Properties.Resources.resources
 C:\Users\Admin\Documents\GitHub\cementeriogit\helloworld\helloworld\obj\Debug\helloworld.csproj.GenerateResource.Cache
+
